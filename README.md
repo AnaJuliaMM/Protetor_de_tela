@@ -1,6 +1,6 @@
 # Protetor de tela Java
 *(en)* 
-This project is a screen protector developed using the programming language Java. Its programming paradigm is Object-Oriented, and it was used the JFrma class to generate graphic shapes.
+This project is a screen protector developed using the programming language Java. Its programming paradigm is Object-Oriented, and it was used the JFrame class to generate graphic shapes.
 
 *(pt-br)*
 Este projeto consiste em um protetor de tela desenvolvido em Java no paradigma de Programação Orientada a Objeto utilizando a classe JFrame para criação de elementos gráficos.
